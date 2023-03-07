@@ -15,6 +15,10 @@
 	font-family: inherit;
 }
 
+.cbtn__cv {
+	color: var(--color5);
+}
+
 .cbtn:hover {
 	color: var(--color5);
 }

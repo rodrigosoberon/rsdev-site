@@ -26,6 +26,20 @@ section {
 	min-height: 100vh;
 }
 
+.gradient-text {
+	background-color: var(--color4);
+	background-image: linear-gradient(45deg, var(--color4), var(--color3), var(--color4));
+	background-size: 100%;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
+}
+
+.co1 {
+	color: var(--color1);
+}
+
 .co4 {
 	color: var(--color4);
 }
@@ -49,3 +63,19 @@ section {
 	background-image: linear-gradient(130deg, var(--color1), var(--color2));
 }
 /* ********************* ABOUT ******************** */
+
+/* ******************* PROJECTS ****************** */
+
+/* ******************* PROJECTS ****************** */
+
+/* ******************* CONTACT ******************* */
+#section-contact {
+	background-image: linear-gradient(130deg, var(--color1), var(--color2));
+}
+/* ******************* CONTACT ******************* */
+
+/* ******************** FOOTER ******************* */
+footer {
+	/* background-color: var(--color1); */
+}
+/* ******************** FOOTER ******************* */

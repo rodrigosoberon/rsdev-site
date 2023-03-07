@@ -1,9 +1,7 @@
 .icon-flip {
 	background-color: transparent;
-	/* max-width: 13vh;
-	max-height: 13vh; */
-	width: calc(3em + 4vw);
-	height: calc(3em + 4vw);
+	width: calc(3em + 3vw);
+	height: calc(3em + 3vw);
 	perspective: 1000px;
 }
 
