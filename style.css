@@ -40,12 +40,40 @@ section {
 	color: var(--color1);
 }
 
+.bg1 {
+	background-color: var(--color1);
+}
+
+.co2 {
+	color: var(--color2);
+}
+
+.bg2 {
+	background-color: var(--color2);
+}
+
+.co3 {
+	color: var(--color3);
+}
+
+.bg3 {
+	background-color: var(--color3);
+}
+
 .co4 {
 	color: var(--color4);
 }
 
+.bg4 {
+	background-color: var(--color4);
+}
+
 .co5 {
 	color: var(--color5);
+}
+
+.bg5 {
+	background-color: var(--color5);
 }
 
 /* ******************** HEADER ******************** */
@@ -65,7 +93,16 @@ section {
 /* ********************* ABOUT ******************** */
 
 /* ******************* PROJECTS ****************** */
+.card {
+	border: 0px solid #000;
+	/* margin: 1em 0; */
+	box-shadow: 5px 5px 5px 1px var(--color5);
+}
 
+.card-footer {
+	background-color: #fff;
+	border-top: 0;
+}
 /* ******************* PROJECTS ****************** */
 
 /* ******************* CONTACT ******************* */
@@ -75,7 +112,5 @@ section {
 /* ******************* CONTACT ******************* */
 
 /* ******************** FOOTER ******************* */
-footer {
-	/* background-color: var(--color1); */
-}
+
 /* ******************** FOOTER ******************* */
