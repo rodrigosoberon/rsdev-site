@@ -1,7 +1,7 @@
 .icon-flip {
 	background-color: transparent;
-	width: calc(3em + 3vw);
-	height: calc(3em + 3vw);
+	width: calc(3em + 3.2vw);
+	height: calc(3em + 3.2vw);
 	perspective: 1000px;
 }
 
