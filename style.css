@@ -22,6 +22,10 @@ p {
 	margin: 0;
 }
 
+strong {
+	color: var(--color4);
+}
+
 section {
 	min-height: 100vh;
 }
